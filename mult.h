@@ -2,7 +2,9 @@
 // Created by Annette on 07/06/2025.
 //
 
-#ifndef MULT_H
-#define MULT_H
+#include <math.h>
+#include <stdexcept>
 
-#endif //MULT_H
+double mult(double x, double y) {
+    return x * y;
+}
