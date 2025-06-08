@@ -22,6 +22,9 @@
 #include <math.h>
 #include <stdexcept>
 
+/**
+  metodo para relizar la multiplicacion de dos numeros
+ */
 double mult(double x, double y) {
     return x * y;
 }
